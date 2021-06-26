@@ -1,0 +1,7 @@
+{
+  "name": "ionic-private-route",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
